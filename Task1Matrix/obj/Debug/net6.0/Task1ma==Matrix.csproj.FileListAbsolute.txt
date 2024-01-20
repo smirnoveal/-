@@ -1,0 +1,15 @@
+C:\Users\shkip\source\repos\Task1ma==Matrix\bin\Debug\net6.0\Task1ma==Matrix.exe
+C:\Users\shkip\source\repos\Task1ma==Matrix\bin\Debug\net6.0\Task1ma==Matrix.deps.json
+C:\Users\shkip\source\repos\Task1ma==Matrix\bin\Debug\net6.0\Task1ma==Matrix.runtimeconfig.json
+C:\Users\shkip\source\repos\Task1ma==Matrix\bin\Debug\net6.0\Task1ma==Matrix.dll
+C:\Users\shkip\source\repos\Task1ma==Matrix\bin\Debug\net6.0\Task1ma==Matrix.pdb
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.csproj.AssemblyReference.cache
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.AssemblyInfoInputs.cache
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.AssemblyInfo.cs
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.csproj.CoreCompileInputs.cache
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.dll
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\refint\Task1ma==Matrix.dll
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.pdb
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\Task1ma==Matrix.genruntimeconfig.cache
+C:\Users\shkip\source\repos\Task1ma==Matrix\obj\Debug\net6.0\ref\Task1ma==Matrix.dll
