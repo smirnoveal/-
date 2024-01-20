@@ -1,0 +1,17 @@
+C:\Users\shkip\source\repos\Sorted\bin\Debug\net6.0-windows\Sorted.exe
+C:\Users\shkip\source\repos\Sorted\bin\Debug\net6.0-windows\Sorted.deps.json
+C:\Users\shkip\source\repos\Sorted\bin\Debug\net6.0-windows\Sorted.runtimeconfig.json
+C:\Users\shkip\source\repos\Sorted\bin\Debug\net6.0-windows\Sorted.dll
+C:\Users\shkip\source\repos\Sorted\bin\Debug\net6.0-windows\Sorted.pdb
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.csproj.AssemblyReference.cache
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.Form1.resources
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.csproj.GenerateResource.cache
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.AssemblyInfoInputs.cache
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.AssemblyInfo.cs
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.csproj.CoreCompileInputs.cache
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.dll
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\refint\Sorted.dll
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.pdb
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\Sorted.genruntimeconfig.cache
+C:\Users\shkip\source\repos\Sorted\obj\Debug\net6.0-windows\ref\Sorted.dll
